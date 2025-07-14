@@ -1,0 +1,12 @@
+{
+  "name": "your-ai-teacher",
+  "version": "1.0.0",
+  "description": "An AI-powered educational assistant that:\r - 📘 Generates notes from PDFs or topics\r - 🧠 Creates flashcards & quizzes\r - 📈 Tracks learning progress with a Kanban-style planner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
